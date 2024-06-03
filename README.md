@@ -2,4 +2,4 @@
 
 ## BiciMAD age-cohort prediction
 
-## Lung Colon cancer histopathological imgages Classification
+## Lung Colon cancer histopathological imgages Classification 
