@@ -2,7 +2,7 @@
 
 ## [BiciMAD Age Cohort Prediction](https://github.com/jdecampo/xai_age_cohort_prediction_bss)
 
-- Used **Python** to build a solution that estimate the age group of BiciMAD users (Macro F1 score: ~61%) based on trip data for year 2019.
+- Used **Python** to build a solution that estimate the age group of BiciMAD Bike Sharing System users (Macro F1 score: ~61%) based on trip data for year 2019.
 - Combined bike usage, meteorological, and working calendar data using **Pandas**, **Numpy**, **Matplotlib**, **Seaborn** and **Folium** for enhanced data integration, analysis and visualization.
 - Optimized Logistic Regression, Random Forest and XGBoost Classifiers with(out) SMOTE using 5-fold stratified GridSearchCV/RandomSearch. Employed libraries like **Scikit-Learn**, **XGBoost**, **Imbalanced-Learn** and **Optuna** to identify the best-performing model.
 - Revealed insights into the model's decision-making process using **SHAP** Feature Importance, choosing the best-performing model that balances robust performance with model explainability **XAI**.
