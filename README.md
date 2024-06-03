@@ -1,5 +1,5 @@
 # Projects
 
-## BiciMAD age-cohort prediction
+## BiciMAD Age Cohort Prediction
 
-## Lung Colon cancer histopathological imgages Classification 
+## Lung Colon Cancer Histopathological Imgages Classification 
