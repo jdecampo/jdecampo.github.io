@@ -1,4 +1,4 @@
-# Portfolio
+# Projects
 
 ## BiciMAD Age Cohort Prediction
 
