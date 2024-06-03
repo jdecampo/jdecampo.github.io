@@ -12,6 +12,6 @@
 ## [Lung Colon Cancer Histopathological Imgages Classification](https://github.com/jdecampo/lung_colon_cancer_img_classification)
 
 - Utilized **Python** to create a supportive tool designed to aid healthcare specialists, particularly oncologists, in the diagnosis and study of cancer. This tool, which achieves a model accuracy of 97%, leverages [histopathological imaging](https://arxiv.org/abs/1912.12142v1) to assist clinical decision-making.
-- Additionally, Deep Learning techniques, particularly computer vision (CNN, Transfer Learning-VGG16) were applied using a 2-fold stratified GridSearchCV. Libraries such as **TensorFlow**, **Keras**, **SciKeras** were employed to identify the most effective classifier.
+- Additionally, Deep Learning techniques, particularly computer vision (CNN, Transfer Learning-VGG16) were applied using a 2-fold stratified GridSearchCV. Libraries such as **TensorFlow**, **Keras** and **SciKeras** were employed to identify the most effective classifier.
 
 ![image](https://github.com/jdecampo/jdecampo.github.io/blob/main/assets/img/eda_lung_colon_cancer_images.png)
